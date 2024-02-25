@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WioletaWrobelsAppsPortfolio" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:colorBackground">@color/light_grey</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="Theme.WioletaWrobelsAppsPortfolio" parent="Base.Theme.WioletaWrobelsAppsPortfolio" />
+</resources>

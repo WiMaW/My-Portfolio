@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">App\'s Portfolio</string>
+
+    <string name="wielun_city_app_name">Wielun City App</string>
+    <string name="wielun_city_app_tools">Kotlin, Jetpack Compose</string>
+    <string name="wielun_city_app_description">support for different screen sizes, splash screen, app navigation, view model, common intent: showing location on google map, two language versions</string>
+    <string name="wielun_city_app_link">To GitHub</string>
+
+    <string name="my_art_space_app_name">My Art Space</string>
+    <string name="my_art_space_app_tools">Kotlin, Jetpack Compose, Room, Retrofit</string>
+    <string name="my_art_space_app_description">search, sharesheet, image slider, relative local database, firebase, bottom navigation bar, dropdown menu, alert dialog, snackbar, single photo picker, floating action button</string>
+    <string name="my_art_space_app_link">To GitHub - still in development</string>
+
+    <string name="daily_inspiration_name">Daily Inspiration</string>
+    <string name="daily_inspiration_tools">Kotlin, Jetpack Compose, Retrofit, Coil</string>
+    <string name="daily_inspiration_description">displaying inspirational quotes from API using retrofit library, displaying inspirational image from the internet using coil library</string>
+    <string name="daily_inspiration_link">To GitHub</string>
+
+    <string name="memories_app_name">Memories App</string>
+    <string name="memories_app_tools">Kotlin, Jetpack Compose</string>
+    <string name="memories_app_description">switching between activities using intent, sending data between activities, json converter, shared preferences, calendar dialog, filter, two language versions</string>
+    <string name="memories_app_link">To GitHub - still in development</string>
+
+    <string name="done_or_not_done_name">Done or NotDone</string>
+    <string name="done_or_not_done_tools">Kotlin, xml layout, Room</string>
+    <string name="done_or_not_done_description">android fragment, Pager View 2 with tabs, bottom sheet dialog, local database, threads</string>
+    <string name="done_or_not_done_link">To GitHub - still in development</string>
+
+    <string name="remind_me_name">Remind Me</string>
+    <string name="remind_me_tools">Kotlin, xml layout </string>
+    <string name="remind_me_description">constraintLayout, viewBinding, android fragment, Pager View 2 with tabs, alert dialog, shared preferences</string>
+    <string name="remind_me_link">To GitHub</string>
+
+    <string name="meet_me_app_name">Meet Me</string>
+    <string name="meet_me_tools">Kotlin, xml layout</string>
+    <string name="meet_me_description">form to get user inputs, linearLayout, sending data between activities, widget visibility, common intents: text messaging, android widgets: checkbox, spinner, date picker</string>
+    <string name="meet_me_link">To GitHub</string>
+
+    <string name="the_bucket_list_app_name">The Bucket List</string>
+    <string name="the_bucket_list_app_tools">Java, xml layout</string>
+    <string name="the_bucket_list_app_description">recycler view adapter, relativeLayout</string>
+    <string name="the_bucket_list_app_link">To GitHub</string>
+
+    <string name="apps_portfolio_name">Wioleta Wrobel\'s Apps Portfolio</string>
+    <string name="apps_portfolio_tools">Java, xml layout</string>
+    <string name="apps_portfolio_description">recycler view, common intent: loading website, two language versions</string>
+    <string name="apps_portfolio_link">To GitHub</string>
+
+    <string name="toast_message">Have fun</string>
+</resources>
