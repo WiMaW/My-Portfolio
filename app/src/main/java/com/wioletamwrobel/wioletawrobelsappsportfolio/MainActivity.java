@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     Project[] projects = {
             new Project(R.string.wielun_city_app_name, R.string.wielun_city_app_tools, R.string.wielun_city_app_description, R.drawable.wielun_city_app, R.string.wielun_city_app_link, "https://www.github.com/WiMaW/Wielun-City-App"),
+            new Project(R.string.radiozw_name, R.string.radiozw_tools, R.string.radiozw_description, R.drawable.radio_zw_screenshot, R.string.radiozw_link, ""),
             new Project(R.string.my_art_space_app_name, R.string.my_art_space_app_tools, R.string.my_art_space_app_description, R.drawable.my_art_space, R.string.my_art_space_app_link, "https://www.github.com/WiMaW/My-Art-Space"),
             new Project(R.string.daily_inspiration_name, R.string.daily_inspiration_tools, R.string.daily_inspiration_description, R.drawable.daily_inspiration, R.string.daily_inspiration_link, "https://www.github.com/WiMaW/DailyInspiration"),
             new Project(R.string.memories_app_name, R.string.memories_app_tools, R.string.memories_app_description, R.drawable.memories_app, R.string.memories_app_link, "https://www.github.com/WiMaW/Memories-App"),

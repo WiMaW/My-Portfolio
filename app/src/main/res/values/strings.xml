@@ -6,6 +6,11 @@
     <string name="wielun_city_app_description">support for different screen sizes, splash screen, app navigation, view model, common intent: showing location on google map, two language versions</string>
     <string name="wielun_city_app_link">To GitHub</string>
 
+    <string name="radiozw_name">Radio ZW</string>
+    <string name="radiozw_tools">Kotlin, Jetpack Compose, Exoplayer</string>
+    <string name="radiozw_description">an application for listening to a local radio station created using the exoplayer library</string>
+    <string name="radiozw_link">To Google Play from 16 August 2024</string>
+
     <string name="my_art_space_app_name">My Art Space</string>
     <string name="my_art_space_app_tools">Kotlin, Jetpack Compose, Room, Retrofit</string>
     <string name="my_art_space_app_description">search, sharesheet, image slider, relative local database, firebase, bottom navigation bar, dropdown menu, alert dialog, snackbar, single photo picker, floating action button</string>
